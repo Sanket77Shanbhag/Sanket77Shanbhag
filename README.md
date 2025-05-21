@@ -12,9 +12,7 @@
 </p>
 
 ---
-
-- 🔭 I’m currently working on **eGuru LLM** – an e-learning platform with an offline AI chatbot.
-- 🌱 Currently exploring **Machine Learning, Deep Learning, and Full Stack Development**.
+- 🌱 Currently exploring **Machine Learning, Deep Learning, and Generative AI**.
 - 🧠 Skilled in **Python, Data Analysis, Django, Flask, OpenCV, LLMs, MongoDB, React, and Power BI**.
 - 💬 Ask me about **Python, Data Science, Computer Vision, Web Development**.
 - 📫 Reach me at: **sanketshanbhag1349@gmail.com**
@@ -29,10 +27,12 @@
 - Sent **real-time alerts** with location via **Twilio API**.
 - Built with **Computer Vision, Flask**, and **OpenCV**.
 
-### 📊 ALP (AI Learning Platform)
-- Built a complete **learning management system** with admin/user dashboards.
-- Integrated **AI-based chatbot** with file upload and **LLM (LLaMA 3.2)** for Q&A.
-- Technologies: **Python, Django, MongoDB, OCR, React, TailwindCSS**.
+### 🔹 ALP Intelligence Surveillance
+  A computer vision-based surveillance system for schools and colleges. Features include:  
+  ▪ Continuous **Attendance Monitoring** using face recognition with timestamp logging  
+  ▪ **Phone Usage Detection** using pose estimation and CV  
+  ▪ **Plastic/Waste Litter Detection** using Mask R-CNN  
+  Built using OpenCV, TensorFlow, face_recognition, and MediaPipe. 
 
 ### 📄 Resume Analyzer & Job Recommender
 - Analyzed resumes using **Gemini embeddings** and recommended matching jobs.
@@ -42,11 +42,6 @@
 ### 📚 Fake News Detection System
 - Trained ML models using **NLP**, **TF-IDF**, and **Scikit-learn** for fake/real news classification.
 - Built a clean **Flask app** for user interaction.
-
-### 🖼️ Plant Leaf Disease Detection using XAI
-- Ensemble of **VGG16, VGG19, InceptionV3, ResNet101V2** for disease classification.
-- Applied **LIME (Local Interpretable Model-Agnostic Explanations)** for explainability.
-- Dataset: **Plant Village**
 
 ### 🧠 Generative AI PDF Quiz Generator
 - Extracted questions & answers from PDFs using **LLMs + OCR**.
@@ -58,6 +53,12 @@
 - Implemented grayscale & Gaussian filtering for noise reduction.
 - Built with **OpenCV** and **NumPy**.
 
+### 🔹 AI-Virtual-Keyboard
+A webcam-based, gesture-enabled virtual keyboard built with Python and OpenCV.
+▪ Uses **MediaPipe** for palm and finger detection
+▪ Clicks detected when distance between fingers drops below threshold
+▪ No external hardware needed – just a webcam
+▪ Designed to support hands-free typing and help specially-abled users
 ---
 
 <h3 align="left">Connect with me:</h3>
