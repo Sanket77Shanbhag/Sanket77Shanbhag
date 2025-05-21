@@ -13,13 +13,50 @@
 
 ---
 
-- 🔭 I’m currently working on **eGuru LLM** – an e-learning platform with an AI chatbot.
+- 🔭 I’m currently working on **eGuru LLM** – an e-learning platform with an offline AI chatbot.
 - 🌱 Currently exploring **Machine Learning, Deep Learning, and Full Stack Development**.
 - 🧠 Skilled in **Python, Data Analysis, Django, Flask, OpenCV, LLMs, MongoDB, React, and Power BI**.
-- 🛠️ Projects include: **Accirescue (Real-time Accident Detection), Fake News Detection, Resume Analyzer, Edge Detection App, Plant Leaf Disease Detection using XAI**.
 - 💬 Ask me about **Python, Data Science, Computer Vision, Web Development**.
 - 📫 Reach me at: **sanketshanbhag1349@gmail.com**
 - ⚡ Fun fact: I enjoy simplifying complex AI systems for real-world use 🚀
+
+---
+
+## 🚀 High-End Projects
+
+### 🔴 Accirescue – Real-Time Accident Detection & Alert System
+- Used **Detectron2 (Mask R-CNN)** for accident detection from surveillance feeds.
+- Sent **real-time alerts** with location via **Twilio API**.
+- Built with **Computer Vision, Flask**, and **OpenCV**.
+
+### 📊 ALP (AI Learning Platform)
+- Built a complete **learning management system** with admin/user dashboards.
+- Integrated **AI-based chatbot** with file upload and **LLM (LLaMA 3.2)** for Q&A.
+- Technologies: **Python, Django, MongoDB, OCR, React, TailwindCSS**.
+
+### 📄 Resume Analyzer & Job Recommender
+- Analyzed resumes using **Gemini embeddings** and recommended matching jobs.
+- Built with **Flask**, **NLP**, and **MongoDB**.
+- Integrated frontend with job listing and upload dashboard.
+
+### 📚 Fake News Detection System
+- Trained ML models using **NLP**, **TF-IDF**, and **Scikit-learn** for fake/real news classification.
+- Built a clean **Flask app** for user interaction.
+
+### 🖼️ Plant Leaf Disease Detection using XAI
+- Ensemble of **VGG16, VGG19, InceptionV3, ResNet101V2** for disease classification.
+- Applied **LIME (Local Interpretable Model-Agnostic Explanations)** for explainability.
+- Dataset: **Plant Village**
+
+### 🧠 Generative AI PDF Quiz Generator
+- Extracted questions & answers from PDFs using **LLMs + OCR**.
+- Outputs MCQs automatically with reference links to source content.
+- Built using **Python, PyMuPDF, Langchain**, and **Tesseract**.
+
+### 🎥 Real-Time Edge Detection with OpenCV
+- Applied **Canny, Sobel, Laplacian, Prewitt** edge detection dynamically on webcam feed.
+- Implemented grayscale & Gaussian filtering for noise reduction.
+- Built with **OpenCV** and **NumPy**.
 
 ---
 
