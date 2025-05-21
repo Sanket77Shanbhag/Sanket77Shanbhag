@@ -54,11 +54,11 @@
 - Built with **OpenCV** and **NumPy**.
 
 ### 🔹 AI-Virtual-Keyboard
-A webcam-based, gesture-enabled virtual keyboard built with Python and OpenCV.
-▪ Uses **MediaPipe** for palm and finger detection
-▪ Clicks detected when distance between fingers drops below threshold
-▪ No external hardware needed – just a webcam
-▪ Designed to support hands-free typing and help specially-abled users
+- A webcam-based, gesture-enabled virtual keyboard built with Python and OpenCV.
+- Uses **MediaPipe** for palm and finger detection
+- Clicks detected when distance between fingers drops below threshold
+- No external hardware needed – just a webcam
+- Designed to support hands-free typing and help specially-abled users
 ---
 
 <h3 align="left">Connect with me:</h3>
