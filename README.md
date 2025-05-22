@@ -20,46 +20,7 @@
 
 ---
 
-## 🚀 High-End Projects
 
-### 🔴 Accirescue – Real-Time Accident Detection & Alert System
-- Used **Detectron2 (Mask R-CNN)** for accident detection from surveillance feeds.
-- Sent **real-time alerts** with location via **Twilio API**.
-- Built with **Computer Vision, Flask**, and **OpenCV**.
-
-### 🔹 ALP Intelligence Surveillance
-  A computer vision-based surveillance system for schools and colleges. Features include:  
-  ▪ Continuous **Attendance Monitoring** using face recognition with timestamp logging  
-  ▪ **Phone Usage Detection** using pose estimation and CV  
-  ▪ **Plastic/Waste Litter Detection** using Mask R-CNN  
-  Built using OpenCV, TensorFlow, face_recognition, and MediaPipe. 
-
-### 📄 Resume Analyzer & Job Recommender
-- Analyzed resumes using **Gemini embeddings** and recommended matching jobs.
-- Built with **Flask**, **NLP**, and **MongoDB**.
-- Integrated frontend with job listing and upload dashboard.
-
-### 📚 Fake News Detection System
-- Trained ML models using **NLP**, **TF-IDF**, and **Scikit-learn** for fake/real news classification.
-- Built a clean **Flask app** for user interaction.
-
-### 🧠 Generative AI PDF Quiz Generator
-- Extracted questions & answers from PDFs using **LLMs + OCR**.
-- Outputs MCQs automatically with reference links to source content.
-- Built using **Python, PyMuPDF, Langchain**, and **Tesseract**.
-
-### 🎥 Real-Time Edge Detection with OpenCV
-- Applied **Canny, Sobel, Laplacian, Prewitt** edge detection dynamically on webcam feed.
-- Implemented grayscale & Gaussian filtering for noise reduction.
-- Built with **OpenCV** and **NumPy**.
-
-### 🔹 AI-Virtual-Keyboard
-- A webcam-based, gesture-enabled virtual keyboard built with Python and OpenCV.
-- Uses **MediaPipe** for palm and finger detection
-- Clicks detected when distance between fingers drops below threshold
-- No external hardware needed – just a webcam
-- Designed to support hands-free typing and help specially-abled users
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
